@@ -1,4 +1,4 @@
-# airdropunited_token
+# Aidrop United Token (UTD)
 UTD token - NEP5 contract on NEO 
 
 name        : AIRDROP UNITED",<br/>
